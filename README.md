@@ -48,15 +48,20 @@ The templates are available in ~/dotfiles/waybar/themes. You can add your own pe
 
 ## Screenshots & Video
 
-Garuda
-![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-27.png)
-![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-42-03.png)
-![MODEL](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-12.png)
+Endeavour
+![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_11-16-25.png)
+![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_11-16-47.png)
+![MODEL](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_11-17-59.png)
 
 Arch Linux
 ![MODEL](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-21_13-04-59.png)
 ![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-21_13-02-05.png)
 ![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-21_13-04-49.png)
+
+Garuda
+![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-27.png)
+![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-42-03.png)
+![MODEL](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-12.png)
 
 Manjaro
 ![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/screenshot-2026-04-21_15-01-38.png)
