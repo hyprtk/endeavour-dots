@@ -26,6 +26,7 @@ echo "
 #########################################################
 "
 sleep 2
+sudo pacman -Rns plasma-meta kde-applications-meta --noconfirm
 sudo pacman -Rns plasma kde-applications --noconfirm
 echo""
 clear
@@ -593,6 +594,7 @@ echo ""
 _installSymLink standalone ~/.local/bin ~/endeavour-dots/standalone/ ~/.local/bin
 _installSymLink oh-my-zsh ~/.oh-my-zsh/oh-my-zsh.sh ~/endeavour-dots/oh-my-zsh/oh-my-zsh.sh ~/.oh-my-zsh
 echo ""
+rm -R $HOME/dotfiles
 clear
 echo ""
 echo ""
