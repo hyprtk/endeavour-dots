@@ -65,5 +65,5 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 
 EndeavourOS
 ![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/endeavour1.png)
-![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/endeavour4.png)
+![Model](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/endeavour2.png)
 ![MODEL](https://github.com/hyprtk/endeavour-dots/blob/main/screenshots/endeavour3.png)
