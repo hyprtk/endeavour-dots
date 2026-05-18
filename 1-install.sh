@@ -483,6 +483,7 @@ echo "-> Install general endeavour-dots"
 echo "-------------------------------------"
 echo ""
 echo ""
+mv ~/.config/hypr ~/.config/hypr-old
 _installSymLink alacritty ~/.config/alacritty ~/endeavour-dots/alacritty/ ~/.config
 _installSymLink ranger ~/.config/ranger ~/endeavour-dots/ranger/ ~/.config
 _installSymLink vim ~/.config/vim ~/endeavour-dots/vim/ ~/.config
